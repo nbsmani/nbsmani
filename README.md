@@ -1,4 +1,4 @@
-### Hi there,:smile:
+### Hi there, :smile:
 <blockquote>
   <p> In the quest of finding wisdom, I transform data to information, information to insights .</p>
   <!-- <footer>—></footer> -->
