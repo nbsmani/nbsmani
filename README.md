@@ -4,6 +4,6 @@
   <!-- <footer>—></footer> -->
 </blockquote>
 
-I am a Bioinformatics scientist based in Lyon, France. I am currently working as a research engineer at the Cancer Research Centre of Lyon.
+I am Balasubramaniam Namasivayam, a Bioinformatics scientist based in Lyon, France. I am currently working as a research engineer at the Cancer Research Centre of Lyon.
 
 
