@@ -1,5 +1,7 @@
-title: Balasubramaniam Namasivayam
-description: Data Engineering & Infrastructure
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-sitemap
+title: "nbsmani - Data Engineering"
+description: "Containerized data pipelines and distributed systems"
+baseurl: ""
+url: "https://nbsmani.github.io"
+theme: null
+markdown: kramdown
+permalink: pretty
