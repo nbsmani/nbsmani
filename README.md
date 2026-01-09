@@ -7,7 +7,7 @@ I am Balasubramaniam Namsivayam, Senior Data Engineer with a PhD in Engineering 
 containerized data pipelines into production.
 
 - **Core Technologies:** Python, SQL, Apache Spark, Snowflake, Apache Airflow, Docker, and AWS.
-- **Proven Ability:** Own the full data lifecycle, from distributed processing (HPC/Spark) to workflow automation and cloud
+- **Proven Ability:** Own the full data lifecycle, from distributed processing (Spark,HPC clusters) to workflow automation and cloud
 storage. Ensuring data integrity, reproducibility, and performance.
 - **Objective:** Seeking to leverage deep systems-engineering expertise to solve complex data infrastructure challenges in the
 tech industry.
